@@ -1,0 +1,26 @@
+body {
+    background-color: #000; /* Dark background */
+    color: white; /* White text color */
+    font-family: 'Arial', sans-serif; /* You can choose a more elegant font */
+    text-align: center; /* Centering text */
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-transform: uppercase; /* Uppercase letters for a modern look */
+}
+
+h1 {
+    font-size: 4em; /* Large font size for 'Mitowear' */
+    margin: 0;
+}
+
+.tagline {
+    font-size: 1.5em; /* Smaller font size for the tagline */
+    margin-top: 20px; /* Space between the title and tagline */
+}
